@@ -40,5 +40,14 @@ double camisetas_quantidade = camisetas_inicial - camisetas_vendidas + camisetas
 double lucro = camisetas_vendidas * camisetas_valor;
 System.out.println("A quantidade de camisetas é " + camisetas_quantidade);
 System.out.println("O lucro foi de " + lucro);
+
+//6 - Dobro e Metade
+
+double numero = 1211;
+double dobro = numero * 2;
+double metade = numero / 2;
+System.out.println("O número escolhido é " + numero);
+System.out.println("O dobro deste número é " + dobro);
+System.out.println("A metade deste número é " + metade);
 }
 }
