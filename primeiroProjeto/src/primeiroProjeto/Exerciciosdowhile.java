@@ -8,7 +8,7 @@ package primeiroProjeto;
 				
 				Scanner sc = new Scanner(System.in);
 
-		        // 1 - Contador: Mostre os números de 10 a 30 no console
+		        // 1 - Contador
 		        int cont1 = 10;
 		        do {
 		            System.out.println(cont1);
